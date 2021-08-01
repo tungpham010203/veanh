@@ -1,0 +1,14 @@
+﻿'toolvehinhccongcong.exe' (Win32): Loaded 'C:\Users\tungp\source\repos\toolvehinhccongcong\Debug\toolvehinhccongcong.exe'. Symbols loaded.
+'toolvehinhccongcong.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'toolvehinhccongcong.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'toolvehinhccongcong.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'toolvehinhccongcong.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'toolvehinhccongcong.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'toolvehinhccongcong.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x3ed8 has exited with code 0 (0x0).
+'toolvehinhccongcong.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. 
+'toolvehinhccongcong.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+The thread 0x2a50 has exited with code -1073741510 (0xc000013a).
+The thread 0x704 has exited with code -1073741510 (0xc000013a).
+The thread 0x163c has exited with code -1073741510 (0xc000013a).
+The program '[17316] toolvehinhccongcong.exe' has exited with code -1073741510 (0xc000013a).
